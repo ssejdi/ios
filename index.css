@@ -1,3 +1,4 @@
+@media screen and (min-width: 600px) {
 * {
     margin: 0;
     padding: 0;
@@ -63,4 +64,5 @@ a {
     #site > .wrapper, #footer > .wrapper {
         padding: 14px;
     }
+}
 }
